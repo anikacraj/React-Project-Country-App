@@ -1,14 +1,7 @@
 import React from 'react';
 
-function Header(){
-    return (
-        <>
-        <h1> From Header Components </h1>
-        </>
-
-
-    );
+function Header(props) {
+ 
 }
 
 export default Header;
-
